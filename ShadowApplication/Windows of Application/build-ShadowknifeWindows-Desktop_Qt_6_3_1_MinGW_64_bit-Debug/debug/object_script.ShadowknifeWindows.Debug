@@ -1,0 +1,11 @@
+debug/calculator.o
+debug/main.o
+debug/logininterface.o
+debug/maininterface.o
+debug/uart.o
+debug/qrc_Image.o
+debug/qrc_MainInterface.o
+debug/moc_calculator.o
+debug/moc_logininterface.o
+debug/moc_maininterface.o
+debug/moc_uart.o

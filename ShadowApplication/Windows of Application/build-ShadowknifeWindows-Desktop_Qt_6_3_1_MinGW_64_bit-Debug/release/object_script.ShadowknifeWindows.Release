@@ -1,0 +1,11 @@
+release/calculator.o
+release/main.o
+release/logininterface.o
+release/maininterface.o
+release/uart.o
+release/qrc_Image.o
+release/qrc_MainInterface.o
+release/moc_calculator.o
+release/moc_logininterface.o
+release/moc_maininterface.o
+release/moc_uart.o
